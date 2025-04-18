@@ -116,6 +116,5 @@ if ! shopt -oq posix; then
 fi
 
 if ! command -v yarn &> /dev/null; then
-  corepack enable
+  npm install -g yarn@1
 fi
-
