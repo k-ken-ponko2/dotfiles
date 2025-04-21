@@ -8,12 +8,6 @@ alias dp='docker ps'
 alias gcb='git checkout -b'
 alias gc='git checkout'
 
-
-alias cdp='cd ~/project'
-alias cdd='cd ~/develop'
-alias cdl='cd ~/learning'
-alias cdy='cd ~/learning/yukkuri'
-
 alias open='xdg-open'
 alias pd='git pull origin develop'
 alias pm='git pull origin main'
